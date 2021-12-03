@@ -1,5 +1,7 @@
 set(SRCS
         1_sonar_sweep.cpp
+        2_dive.cpp
+        3_binary_diagnostic.cpp
         )
 # Add Catch2 Definition
 include(Catch)
