@@ -3,6 +3,8 @@ set(SRCS
         2_dive.cpp
         3_binary_diagnostic.cpp
         4_giant_squid.cpp
+        5_hydrothermal_venture.cpp
+        6_lanternfish.cpp
         )
 # Add Catch2 Definition
 include(Catch)
